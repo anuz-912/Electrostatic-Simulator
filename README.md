@@ -46,4 +46,4 @@ pip install numpy pandas matplotlib
 
 For a detailed explanation of the theoretical background, physics, and mathematical methods used in this simulator, please visit:
 
-[https://anujpanthi.com.np/electrostatic_simulator](https://anujpanthi.com.np/electrostatic_simulator)
+[https://anujpanthi.com.np/electrostatic_simulator](https://anujpanthi.com.np/electrostatic-simulator)
