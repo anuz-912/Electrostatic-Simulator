@@ -33,7 +33,7 @@ Ey = df['Ey'].values
 plt.figure(figsize=(9, 7))
 
 # Contour / Heatmap for Electric Potential (V)
-contour = plt.tricontourf(x, y, V, levels=50, cmap='viridis')
+contour = plt.tricontourf(x, y, V, levels=50, cmap='coolwarm')
 plt.colorbar(contour, label='Electric Potential $V$ (V)')
 
 # 4. Normalized field vector downsampling (Stride = 3 for clear visual resolution)
