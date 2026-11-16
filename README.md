@@ -31,7 +31,7 @@ A C++ numerical solver and Python visualizer for 2D electrostatic potential and 
    ```bash
    ./electrostatic_sim
    ```
-   *(On Windows, run `electrostatic_field_calculator.exe`)*
+   *(On Windows, run `electrostatic_sim.exe`)*
 
 2. **Follow the prompts:**
    * Enter boundary potentials (`TOP BOTTOM LEFT RIGHT`)[cite: 2]
